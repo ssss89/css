@@ -1,0 +1,45 @@
+<html>
+ <head>
+ <title>The jQuery Example</title>
+ <link rel="stylesheet" href="j/jquery-ui.css">
+  <link rel="stylesheet" href="j/jquery-ui.min.css">
+   <link rel="stylesheet" href="j/jquery-ui.structure.min.css">
+   <link rel="stylesheet" href="j/jquery-ui.structure.css">
+   <link rel="stylesheet" href="j/jquery-ui.theme.min.css">
+
+ <script type="text/javascript"
+src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ 
+ <script type="text/javascript" language="javascript">
+
+ </script>
+ <style>
+ p {background-color:#bca; width:200px; border:1px solid green;}
+ .c{
+    width: 50px;
+    height: 30px;
+    border: 3px solid green;
+   
+    word-wrap: normal;
+    
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    text-shadow:2px 2px 1px red;
+    <!-- normal,nowrap,pre,pre-line,pre-wrap -->
+    <!--value: clip,ellipsis,string -->
+    
+    <!-- value h-shadow,v-shadow,blur-radius,color-->
+    
+   
+ }
+ </style>
+ </head>
+ <body>
+ 
+ <div class="c">
+     hello hey ki hall Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi suscipit aliquam quod, iusto temporibus enim molestias officia! Nulla, natus placeat eaque eligendi labore deleniti quia quo accusantium corporis, animi ab possimus dolor tenetur aliquid! Distinctio incidunt sunt iste, rem omnis laborum id unde perspiciatis commodi natus laudantium tempora impedit molestias expedita veritatis tempore harum ad sit vitae quam, at modi, deserunt fugit ea! Aliquid, vero harum inventore placeat laboriosam atque eum, nobis. Quis aperiam natus magni vero porro unde molestiae corporis. Unde debitis nihil magnam fugiat dolorem, temporibus iste repellendus adipisci perspiciatis ipsam. Iste velit, corrupti quae sint, ab nemo.
+ </div>
+
+</body>
+</html>
